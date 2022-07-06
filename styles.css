@@ -361,6 +361,10 @@ iframe {
     background-color: #ef7179;
     border: 5px solid #ef7179;
 }
+
+.texto-boton:hover {
+    background-color: #67b54b;
+}
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px){
     .actions {
